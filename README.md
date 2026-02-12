@@ -1,0 +1,1 @@
+# -QA-Project-Portfolio-Banking-Insurance-FinTech-Domains
