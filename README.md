@@ -49,7 +49,7 @@ qa-banking-fintech-case-studies/
 
 ---
 
-# ✅ FILE 2: `Case_Studies/01_Customer_Data_Platforms.md`
+
 
 ```md
 # Case Study 1: Customer Data Platforms (Customer 360)
